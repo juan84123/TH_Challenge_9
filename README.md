@@ -1,4 +1,6 @@
 # TH_Challenge_9
+###TENER EN CUENTA QUE NO SE DA UNA FECHA DE CUANDO LOS USUARIOS CAMBIAN DE PLAN, O DATOS SOBRE ELLO
+
 🎬 Escenario & Reto
 
 El sistema ya corre en producción: usuarios crean posts, reciben votos e interactúan. Pero el tablero no cierra: métricas inconsistentes, planes que no rinden como esperabas y actividad concentrada en pocos usuarios.
