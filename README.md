@@ -75,18 +75,18 @@ Presentar un resumen con: Filas RAW vs CORE (clean), % de Quarantine, duplicados
     Votos por país, categoría y dispositivo.
 
 4.3 Promedios e Interpretación
-
+///////// ver de explicar mejor esto y entender 
 Calcular promedio de votos por plan y posts por usuario. Obligatorio: Explicar qué significa la unidad de análisis y qué sesgos (outliers) pueden existir.
-4.4 Evento vs Usuario
+4.4 Evento vs Usuario 
 
 Calcular promedio de votos por fila y promedio de votos agrupado por usuario. Explicar por qué difieren.
 📌 Concentración y Temporalidad
-
+    //////////entender
     Concentración: ¿Qué % de posts/votos viene del top 1% de usuarios?
     Tendencia: Actividad y engagement por semana/mes.
 
 🧠 Product Decisions (Basadas en evidencia)
-
+/////////////////entender y redactar algo "mio"
 8.1 Preguntas:
 
     ¿Qué segmento priorizarías y por qué?
@@ -116,3 +116,5 @@ Exportación de archivos:
     Boxplots de votos para ver asimetría.
     Análisis de Cohortes por mes de signup.
     Métrica propia justificada (ej: engagement_score).
+
+    ////////////////////// basicamente enteder lo que se esta analizando y porque se hace lo que se hace
