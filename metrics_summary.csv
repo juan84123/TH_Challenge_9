@@ -1,4 +1,4 @@
-plan_type,usuarios_unicos,n_posts,votes_mean,votes_median,votes_p75,votes_p90
-enterprise,82,333,7.57,7.0,10.0,14.0
-free,1547,6569,6.69,6.0,9.0,13.0
-pro,367,1607,7.65,7.0,10.0,14.0
+usuarios_unicos,n_posts,votes_mean,votes_median,votes_p75,votes_p90
+82,333,7.57,7.0,10.0,14.0
+1547,6569,6.69,6.0,9.0,13.0
+367,1607,7.65,7.0,10.0,14.0
